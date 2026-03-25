@@ -1,0 +1,7 @@
+
+streamlit
+langchain-cerebras
+pymupdf
+python-dotenv
+apify-client
+mcp[cli]

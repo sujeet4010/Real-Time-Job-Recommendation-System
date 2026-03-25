@@ -1,0 +1,15 @@
+[project]
+name = "real-time-job-recommendation-system"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "apify-client>=2.5.0",
+    "langchain-cerebras>=0.8.2",
+    "mcp[cli]>=1.26.0",
+    "openai>=2.29.0",
+    "pymupdf>=1.27.2.2",
+    "python-dotenv>=1.2.2",
+    "streamlit>=1.55.0",
+]
